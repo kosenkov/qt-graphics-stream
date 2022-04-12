@@ -2,5 +2,5 @@
 Qt scatter plot - demo project
 
 <p align="center">
-    <img src="./logo.png" width="300px" height="300px" />
+    <img src="./logo.png" width="100px" height="100px" />
 </p>
