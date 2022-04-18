@@ -6,5 +6,5 @@ Qt scatter plot - demo project
 </p>
 
 <p align="center">
-    <img src="./gs-app-screenshot.png"/>
+    <img src="./gs-app-screenshot.PNG"/>
 </p>
